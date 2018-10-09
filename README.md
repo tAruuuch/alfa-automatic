@@ -1,2 +1,1 @@
-# alfa-automatic
-Create a new web site for the company Alfa-Automatic
+# alfa-automatic new version web site on Vue & PHP
